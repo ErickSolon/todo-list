@@ -1,9 +1,10 @@
 {
+    "license": "proprietary",
+    "name" : "ErickSolon/TODOList",
+    "description": "Projeto TODOList",
+
     "require": {
         "ext-pdo_mysql": "*",
         "ext-mysqli": "*"
-    },
-  "license": "proprietary",
-  "name" : "ErickSolon/TODOList",
-  "description": ""
+    }
 }
