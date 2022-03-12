@@ -1,5 +1,7 @@
 {
     "license": "proprietary",
+    "name":"ericksolon/todoList",
+    "description":"simply todo list site",
     "require": {
         "ext-pdo_mysql": "*",
         "ext-mysqli": "*"
