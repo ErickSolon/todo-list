@@ -2,8 +2,7 @@
     "require": {
         "ext-pdo_mysql": "*",
         "ext-mysqli": "*"
-    }
-
+    },
   "license": "proprietary",
   "name" : "ErickSolon/TODOList",
   "description": "",
