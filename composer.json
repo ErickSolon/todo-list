@@ -1,4 +1,5 @@
 {
+    "license":"proprietary",
     "name": "ericksolon/todolist",
     "description": "simply todo list",
     "autoload": {
