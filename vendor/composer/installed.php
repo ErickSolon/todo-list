@@ -5,18 +5,18 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '575eb4ab787538e4849b5689925cee774cacb806',
-        'name' => '__root__',
+        'reference' => 'f7ef3038db03b4afc1b7a6d2491dfcd85ad9c480',
+        'name' => 'ericksolon/todolist',
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
+        'ericksolon/todolist' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '575eb4ab787538e4849b5689925cee774cacb806',
+            'reference' => 'f7ef3038db03b4afc1b7a6d2491dfcd85ad9c480',
             'dev_requirement' => false,
         ),
     ),
