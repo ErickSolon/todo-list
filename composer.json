@@ -1,9 +1,19 @@
 {
-    "license": "proprietary",
-    "name":"ericksolon/todoList",
-    "description":"simply todo list site",
+    "name": "ericksolon/todolist",
+    "description": "simply todo list",
+    "autoload": {
+        "psr-4": {
+            "Ericksolon\\Todolist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Érick Solon",
+            "email": "erick.solon.prog@gmail.com"
+        }
+    ],
     "require": {
-        "ext-pdo_mysql": "*",
+	"ext-pdo_mysql": "*",
         "ext-mysqli": "*"
     }
 }
